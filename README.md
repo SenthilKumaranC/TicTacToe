@@ -1,2 +1,2 @@
 # TicTacToe
-A Simple Tic Tac Taor Unity3D Game
+A Simple Tic Tac Tao Unity3D Game
